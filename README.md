@@ -1,4 +1,4 @@
-# MOSTS
+# Miniature One-Shot Texture Segmentation (MOSTS) 
 
 This repo is the official implementation of **A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications**.
 [https://arxiv.org/pdf/2306.08814v1.pdf]
