@@ -5,6 +5,9 @@ This repo is the official implementation of **A Self-Supervised Miniature One-Sh
 
 Please cite our work if you find this repo helpful! : )
 
+![Picture4](https://github.com/mszuyx/MOSTS/assets/37651144/967eeb18-f71c-435d-aeb4-3f4ae1eb342a)
+
+
 ## To run model training on your own pc:
 
 Navigate to the folder directory, open a terminal and create a virtual environment:
