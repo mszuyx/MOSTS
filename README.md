@@ -18,10 +18,6 @@ Install pytorch 1.10 (you might have to use a different version depending on you
 ```
 pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio==0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
 ```
-Install albumentations if you want to play with data augmentation:
-```
-pip install -U albumentations
-```
 To start the training:
 ```
 python3 train_ablation.py
