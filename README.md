@@ -1,7 +1,8 @@
 # MOSTS
 
 This repo is the official implementation of **A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications**.
-https://arxiv.org/pdf/2306.08814v1.pdf
+[https://arxiv.org/pdf/2306.08814v1.pdf]
+Please cite our work if you find this repo helpful! : )
 
 ## To run model training on your own pc:
 
@@ -31,9 +32,14 @@ To exit virtual environment:
 deactivate                       # Exit virtual environment
 ```
 
-## DTD dataset can be downloaded from here:
-https://www.robots.ox.ac.uk/~vgg/data/dtd/
-
 ## The encoder backbone (pretrained/mobilenetv3-large-1cd25616.pth) can be downloaded from here:
 https://github.com/d-li14/mobilenetv3.pytorch
 Please place the downloaded .pth file under /utils/model/ for the train_ablation.py to work.
+
+## DTD dataset can be downloaded from here:
+https://www.robots.ox.ac.uk/~vgg/data/dtd/
+
+## The Idoor Small Object Dataset (ISOD) can be downloaded from here:
+https://www.kaggle.com/datasets/yuchen66/indoor-small-object-dataset
+Please cite our work if you want to use this dataset for research/publication!
+
