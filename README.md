@@ -5,9 +5,14 @@ This repo is the official implementation of **A Self-Supervised Miniature One-Sh
 
 Please cite our work if you find this repo helpful! : )
 
+## MOSTS system architecture:
 ![Picture4 (1)](https://github.com/mszuyx/MOSTS/assets/37651144/9b05a6b4-9c7e-4652-86df-f025d31a4a57)
 
+## Overall system flow chart
 ![Picture3](https://github.com/mszuyx/MOSTS/assets/37651144/60a06c3e-aa04-4fa5-b64e-e615784b5ef3)
+
+## Example results
+![Picture2](https://github.com/mszuyx/MOSTS/assets/37651144/0c282189-93fd-4bda-a76a-181cd88f3743)
 
 
 ## To run model training on your own pc:
@@ -47,6 +52,7 @@ https://www.robots.ox.ac.uk/~vgg/data/dtd/
 
 ## The Idoor Small Object Dataset (ISOD) can be downloaded from here:
 https://www.kaggle.com/datasets/yuchen66/indoor-small-object-dataset
+![Picture1](https://github.com/mszuyx/MOSTS/assets/37651144/8150d327-7231-4fd3-bf0a-928a4ccfe36a)
 
 Please cite our work if you want to use this dataset for research/publication!
 
