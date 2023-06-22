@@ -10,6 +10,8 @@ This repo is the official implementation of **A Self-Supervised Miniature One-Sh
   year={2023}
 }
 
+This repo is under the Creative Commons Attribution-NonCommercial-ShareAlike license. (#CC-BY-NC-SA#)
+
 Please cite our work if you find this repo helpful! : )
 
 ## MOSTS system architecture:
