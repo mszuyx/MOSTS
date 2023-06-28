@@ -27,6 +27,8 @@ Please cite our work if you find this repo helpful! : )
 [![demo_video1](https://github.com/mszuyx/MOSTS/assets/37651144/ead93001-1302-47ee-a0ce-6959a4b09e27)]
 (https://youtu.be/159IXCoVdwY "demo_video")
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 ## To run model training on your own pc:
 
 Navigate to the folder directory, open a terminal and create a virtual environment:
