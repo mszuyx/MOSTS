@@ -23,6 +23,7 @@ Please cite our work if you find this repo helpful! : )
 ## Example results
 ![Picture2](https://github.com/mszuyx/MOSTS/assets/37651144/0c282189-93fd-4bda-a76a-181cd88f3743)
 
+[![demo_video1](https://github.com/mszuyx/MOSTS/assets/37651144/ead93001-1302-47ee-a0ce-6959a4b09e27)](https://youtu.be/159IXCoVdwY)
 
 ## To run model training on your own pc:
 
