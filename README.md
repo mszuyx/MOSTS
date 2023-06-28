@@ -24,7 +24,7 @@ Please cite our work if you find this repo helpful! : )
 ![Picture2](https://github.com/mszuyx/MOSTS/assets/37651144/0c282189-93fd-4bda-a76a-181cd88f3743)
 
 ## Demo video
-https://github.com/mszuyx/MOSTS/assets/37651144/69e84c26-5db8-4e72-862b-ff0c0a0eecc9
+https://github.com/mszuyx/MOSTS/assets/37651144/44ce340f-95b6-4923-af14-cd3f2f1cda7f
 
 ## To run model training on your own pc:
 
