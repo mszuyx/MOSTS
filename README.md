@@ -2,14 +2,14 @@
 
 This repo is the official implementation of **A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications**.
 [https://arxiv.org/pdf/2306.08814v1.pdf]
-
+```bib
 @article{chen2023self,
   title={A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications},
   author={Chen, Yu and Rastogi, Chirag and Zhou, Zheyu and Norris, William R},
   journal={arXiv preprint arXiv:2306.08814},
   year={2023}
 }
-
+```
 This repo is under the Creative Commons Attribution-NonCommercial-ShareAlike license. (**CC-BY-NC-SA**)
 
 Please cite our work if you find this repo helpful! : )
